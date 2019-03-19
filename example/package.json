@@ -7,6 +7,6 @@
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
     "ws": "^6.2.0",
-    "koa-live-load": "0.0.1"
+    "koa-liveload-views": "0.0.1"
   }
 }
