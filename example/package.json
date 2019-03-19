@@ -1,0 +1,12 @@
+{
+  "name": "koa-live-reload-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "ws": "^6.2.0",
+    "koa-live-load": "0.0.1"
+  }
+}
