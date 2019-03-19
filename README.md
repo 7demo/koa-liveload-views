@@ -28,7 +28,7 @@ app.use(views(__dirname + 'views', {
 
 其他配置同`koa-views`。
 
-###License
+### License
 ---
 [MIT](https://github.com/queckezz/koa-views/blob/master/license)
 
